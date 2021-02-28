@@ -15,6 +15,6 @@
 - CSS3;
 - JavaScript.</h4>
 
-</h4>💻 Techniques Used:
+<h4>💻 Techniques Used:
 
 Among other techniques, the video insertion feature was used as a static background on the page.</h4>
