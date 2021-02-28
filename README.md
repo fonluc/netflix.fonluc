@@ -14,11 +14,6 @@
 - CSS3;
 - JavaScript.
 
-<p align="center">
-<img src="https://github.com/fonluc/netflix.fonluc/blob/main/github/netflix.mp4" alt="netflix-mp4" border="0">
-</p>
-
-
 <h5>💻 Técnicas Utilizadas:</h5>
 
 Entre outras técnicas, foi utilizado o recurso de inserção de vídeo como plano de fundo estático na página, dando um aspecto mais elegante ao projeto.
