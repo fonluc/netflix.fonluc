@@ -1,4 +1,4 @@
-<h2>Netflix (humilde recriação)</h2>
+<h2>Netflix (humble recreation)</h2>
 
 <h4> 📜 This project to recreate Netflix's home page was carried out as part of the Digital Inovation One Web Development Bootcamp with Teacher Felipe Silva (felipeAguiarCode).</h4>
 
