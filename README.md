@@ -1,20 +1,22 @@
 <h2>Netflix (humilde recriação)</h2>
 
-<h4>📜 Este projeto de recriação da home page do Netflix foi realizado como parte do Bootcamp de Desenvolvimento Web da Digital Inovation One com o Profº: Felipe Silva (felipeAguiarCode).(.</h4>
+<h4> 📜 This project to recreate Netflix's home page was carried out as part of the Digital Inovation One Web Development Bootcamp with Teacher Felipe Silva (felipeAguiarCode).</h4>
 
 <p align="center">
 <img src="https://github.com/fonluc/netflix.fonluc/blob/main/github/netflix.png" alt="netflix-png" border="0">
 </p>
 
-<h4>💡 Durante o desenvolvimento do projeto foi encorajado pelo professor que se fizesse mudanças na estrutura da página e novas implementações, sendo assim pude inserir um teaser do filme em destaque na tela inicial.</h4>
+<h4>
+💡 During the project development, the teacher encouraged me to make changes to the page structure and new implementations, so I was able to insert a teaser of the featured film on the home screen.</h4>
 
-<h5>🛠 Tecnologias Envolvidas:</h5>
+<h5>🛠 Technologies Involved:</h5>
 
 - HTML5;
 - CSS3;
 - JavaScript.
 
-<h5>💻 Técnicas Utilizadas:</h5>
+<h5>💻 Techniques Used:</h5>
 
-Entre outras técnicas, foi utilizado o recurso de inserção de vídeo como plano de fundo estático na página, dando um aspecto mais elegante ao projeto.
+Among other techniques, the video insertion feature was used as a static background on the page, giving the project a more elegant look.
+
 ## netflix.fonluc
